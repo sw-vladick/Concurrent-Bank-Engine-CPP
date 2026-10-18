@@ -1,0 +1,15 @@
+.vs/
+x64/
+Debug/
+Release/
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.ipch
+*.VC.db
+
+*.vcxproj.user
+*.aps
+*.rc
+resource.h
